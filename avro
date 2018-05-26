@@ -1,0 +1,19 @@
+::::::::::::How to install “Avro” in Ubuntu 17.10:::::::::::::::100% working.
+Step 1::
+$ sudo apt-get install gjs gir1.2-ibus-1.0 libibus-1.0-5 libibus-1.0-dev ibus-gtk ibus-gtk3 ibus-clutter ibus-qt4
+
+2.it will take some time for install those required files. then again run this command
+$ wget "https://github.com/maateen/avro/releases/download/v2.1/avro_2.1-3_all.deb"
+
+& finally run this command:::
+$ sudo dpkg -i avro_2.1-3_all.deb
+
+I hope, all is well now and the installation has been finished.
+
+and restart your computer.
+
+and then.........
+ 1st. go to settings +Region & language +input sources then+ click (+) button +select bangla(bangladesh) +and search bengali(Avro phonetic)  
+
+end
+ 
