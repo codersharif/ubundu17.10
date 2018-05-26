@@ -1,4 +1,6 @@
-open terminal
+open terminal  then
 $ unzip file.zip
 or
 unzip file.zip -d destination folder name
+
+example: unzip file.zip -d folder
